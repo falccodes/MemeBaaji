@@ -1,6 +1,8 @@
-# memegen
+# MemeBaajiApp
 
-A new Flutter application.
+A new fun Flutter app to create memes!
+Have fun!
+
 
 ## Getting Started
 
